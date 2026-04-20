@@ -1,0 +1,11 @@
+{
+  "name": "Test Market #1 — NO",
+  "description": "Sample ERC-1155 metadata for token id 3 (conditionId 1, NO).",
+  "image": "https://65itk6f6cjal4ukk27dr4rgn3hbjpnoenpennlwvq62rvt762o6a.arweave.net/91E1eL4SQL5RStfHHkTN2cKXtcRryNau1Ye1Gs_-07w",
+  "properties": {
+    "venue": "Polymarket",
+    "side": "NO",
+    "conditionId": 1,
+    "tokenId": 3
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Test Market #3 — YES",
+  "description": "Sample metadata for token id 6 (conditionId 3, YES).",
+  "image": "https://65itk6f6cjal4ukk27dr4rgn3hbjpnoenpennlwvq62rvt762o6a.arweave.net/91E1eL4SQL5RStfHHkTN2cKXtcRryNau1Ye1Gs_-07w",
+  "properties": {
+    "venue": "Polymarket",
+    "side": "YES",
+    "conditionId": 3,
+    "tokenId": 6
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Test Market #2 — NO",
+  "description": "Sample metadata for token id 5 (conditionId 2, NO).",
+  "image": "https://65itk6f6cjal4ukk27dr4rgn3hbjpnoenpennlwvq62rvt762o6a.arweave.net/91E1eL4SQL5RStfHHkTN2cKXtcRryNau1Ye1Gs_-07w",
+  "properties": {
+    "venue": "Kalshi",
+    "side": "NO",
+    "conditionId": 2,
+    "tokenId": 5
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "Test Market #1 — YES",
+  "description": "Sample ERC-1155 metadata for token id 2 (conditionId 1, YES). Replace image with your CDN or IPFS asset after upload.",
+  "image": "https://65itk6f6cjal4ukk27dr4rgn3hbjpnoenpennlwvq62rvt762o6a.arweave.net/91E1eL4SQL5RStfHHkTN2cKXtcRryNau1Ye1Gs_-07w`https://xzlxaaqrxkn7xq2tpjmbitx7sm4l3nx46gap5dj6cyteqccfc43q.arweave.net/vldwAhG6m_vDU3pYFE7_kzi9tvzxgP6NPhYmSAhFFzc/0000000000000000000000000000000000000000000000000000000000000002.json`",
+  "properties": {
+    "venue": "Polymarket",
+    "side": "YES",
+    "conditionId": 1,
+    "tokenId": 2
+  }
+}
